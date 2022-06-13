@@ -43,6 +43,6 @@ def tip(bill, party):
 #a bill of 30 with a party of 5
 print(tip(30,5))
 #a bill of 100 with a party of 5
-print(tip(100,5)) 
-#a bill of 50 with a party of 2
 print(tip(100,5))
+#a bill of 50 with a party of 2
+print(tip(75,2))
